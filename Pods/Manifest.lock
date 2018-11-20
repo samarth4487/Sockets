@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.3)
+  - ObjectMapper (3.4.1)
+  - Starscream (3.0.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - ObjectMapper (~> 3.4)
+  - Starscream (~> 3.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ObjectMapper
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+
+PODFILE CHECKSUM: 20ca0c35f5af97b0d3f3c54079742d4f5e1b1f96
+
+COCOAPODS: 1.5.3
